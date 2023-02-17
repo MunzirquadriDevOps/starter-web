@@ -12,3 +12,4 @@ this is the famous and one of the best Trainig course
 Adding GIT Comparrison Lectures
 
 if its visible means (commited) vs working
+in the world with full of ass hole dont be a jerk
