@@ -11,7 +11,4 @@ this is the famous and one of the best Trainig course
 ## GIT Comparisons
 Adding GIT Comparrison Lectures
 
-## GIT Content
-Comparison with Repo
-
-##
+if its visible means (commited) vs working
