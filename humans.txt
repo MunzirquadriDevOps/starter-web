@@ -20,5 +20,12 @@ DOING SOME CHNAGES IN LOACL
     jvaa
 
     ######
+<<<<<<< HEAD
      regards munzir
     Docker java
+=======
+    Thank you
+    TRIBUTE TO MESSI
+    GOAT MESSI
+    GOAT ROS
+>>>>>>> fdd76ab (Chnag in Human.txt)
