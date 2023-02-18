@@ -28,4 +28,8 @@ DOING SOME CHNAGES IN LOACL
     TRIBUTE TO MESSI
     GOAT MESSI
     GOAT ROS
+<<<<<<< HEAD
 >>>>>>> fdd76ab (Chnag in Human.txt)
+=======
+    Docker java
+>>>>>>> 714bb0d (Chnaging humans txt)
