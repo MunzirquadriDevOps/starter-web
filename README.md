@@ -13,3 +13,4 @@ Adding GIT Comparrison Lectures
 
 if its visible means (commited) vs working
 in the world with full of ass hole dont be a jerk
+Eminem The RAP KING
