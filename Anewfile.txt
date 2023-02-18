@@ -1,0 +1,2 @@
+#adding new file in git progect
+this file os still
