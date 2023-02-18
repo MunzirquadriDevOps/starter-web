@@ -18,8 +18,5 @@ kikik
     jvaa
 
     ######
-    Thank you
-    TRIBUTE TO MESSI
-    GOAT MESSI
-    GOAT ROS
+     regards munzir
     Docker java
