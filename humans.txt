@@ -9,6 +9,7 @@ Kickin the weekend with booz
     <name> -- <role> -- <twitter>
 
 # THANKS
+for tagging commiting
 
     <name>
 
