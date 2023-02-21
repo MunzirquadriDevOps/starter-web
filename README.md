@@ -17,3 +17,7 @@ in the world with full of ass hole dont be a jerk
 Eminem The RAP KING
 KANG is the multiverse
 Adding new lectures on stash
+
+
+
+it develop branch here
