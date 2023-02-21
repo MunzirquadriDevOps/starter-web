@@ -2,8 +2,11 @@
 >>>>>>> 62baa2a (merge confilct)
 2 (staging)
 3  (working dir)
-
+<<<<<<< HEAD
 hi DevOps Engineers this is a work of an artist
 
 
 RAndom numbers has been added
+=======
+its master here
+>>>>>>> 097e7c2 (readme)
